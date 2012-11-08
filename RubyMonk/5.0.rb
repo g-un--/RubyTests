@@ -1,0 +1,2 @@
+puts "Object.new"
+puts
